@@ -1,0 +1,11 @@
+Balikesir,Canakkale
+Bilecik,Sakarya
+Bilecik,Bursa
+Bursa,Sakarya
+Bursa,Kocaeli
+Bursa,Yalova
+Canakkale,Tekirdag
+Canakkale,Edirne
+Istanbul,Kocaeli
+Istanbul,Tekirdag
+Istanbul,Kirklareli

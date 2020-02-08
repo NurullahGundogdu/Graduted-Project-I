@@ -1,0 +1,14 @@
+Afyon,Kutahya
+Afyon,Usak
+Afyon,Denizli
+Aydin,Mugla
+Aydin,Denizli
+Aydin,Manisa
+Aydin,Izmir
+Denizli,Mugla
+Denizli,Usak
+Denizli,Manisa
+Izmir,Manisa
+Kutahya,Manisa
+Kutahya,Usak
+Manisa,Usak

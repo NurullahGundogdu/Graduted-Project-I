@@ -1,0 +1,15 @@
+Adiyaman,Sanliurfa
+Adiyaman,Diyarbakir
+Adiyaman,Gaziantep
+Diyarbakir,Sanliurfa
+Diyarbakir,Mardin
+Diyarbakir,Batman
+Gaziantep,Kilis
+Gaziantep,Sanliurfa
+Mardin,Sanliurfa
+Mardin,Batman
+Mardin,Siirt
+Mardin,Sirnak
+Siirt,Van
+Siirt,Batman
+Siirt,Sirnak

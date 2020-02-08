@@ -1,0 +1,10 @@
+Adana,Hatay
+Adana,Osmaniye
+Adana,Kahramanmaras
+Adana,Mersin
+Antalya,Mersin
+Antalya,Isparta
+Antalya,Burdur
+Burdur,Isparta
+Hatay,Osmaniye
+Kahramanmaras,Osmaniye
